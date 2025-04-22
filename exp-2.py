@@ -3,7 +3,8 @@
 #importing numpy
 import numpy as np
 
-print("Program 1:-", "\n")
+print("Program 1:-",)
+print("")
 
 # Creating array object 
 arr = np.array( [[ 1, 2, 3], [ 4, 2, 5]] )
@@ -26,6 +27,7 @@ print("-------------------------------------------------------------------------
 print("")
 
 print("Program 2:-")
+print("")
 
 # Creating array from list with type float
 a = np.array([[1, 2, 4], [5, 8, 7]], dtype = 'float') 
